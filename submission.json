@@ -1,0 +1,8 @@
+{
+    "prompt": "A strict, authentic Bauhaus graphic design composition from the 1920s. The image features a stark, thick, perfectly straight diagonal black line cutting through the center of the framed space. On the left side of the black line is a scattered group of solid, flat primary-red circles. On the right side of the line is a scattered group of flat primary-blue squares. The thick black line perfectly separates the circles from the squares. Completely flat, unmodulated colors, no 3D shading, strict geometric minimalism, printed on a slightly aged, textured cream-colored paper. Absolutely no text, no numbers, no labels.",
+    "model": "DALL-E 3",
+    "concept": "Support Vector Machine (Maximum Margin Classifier)",
+    "tradition_name": "Bauhaus Graphic Design",
+    "tradition_period": "1919–1933",
+    "tradition_approach": "I mapped the logic of an SVM to Bauhaus grammar by using strictly flat primary shapes (red circles/blue squares) for the data classes, separated by the movement's signature thick, stark black diagonal line as the hyperplane."
+}
